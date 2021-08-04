@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://download-windows-11-free-full.herokuapp.com/host-https-itechhacks.com/sitemap_index.xml
+Sitemap: https://download-windows-11-free-full.herokuapp.com/sitemap.xml
